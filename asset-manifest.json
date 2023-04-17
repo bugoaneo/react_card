@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70f71e9e.css",
+    "main.js": "/static/js/main.027c0417.js",
+    "static/media/big-shoulders-display-v19-latin-700.woff": "/static/media/big-shoulders-display-v19-latin-700.b51f05e8bfebf068e40c.woff",
+    "static/media/big-shoulders-display-v19-latin-regular.woff": "/static/media/big-shoulders-display-v19-latin-regular.1ab15f050136a9723fd4.woff",
+    "static/media/lexend-deca-v21-latin-regular.woff": "/static/media/lexend-deca-v21-latin-regular.5e1dba71577ebbdf5355.woff",
+    "static/media/big-shoulders-display-v19-latin-regular.woff2": "/static/media/big-shoulders-display-v19-latin-regular.b56e8183618a293b2a7e.woff2",
+    "static/media/big-shoulders-display-v19-latin-700.woff2": "/static/media/big-shoulders-display-v19-latin-700.5106b44b70e68c9cb44a.woff2",
+    "static/media/lexend-deca-v21-latin-regular.woff2": "/static/media/lexend-deca-v21-latin-regular.f1399a81a47fc70aeef0.woff2",
+    "index.html": "/index.html",
+    "main.70f71e9e.css.map": "/static/css/main.70f71e9e.css.map",
+    "main.027c0417.js.map": "/static/js/main.027c0417.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70f71e9e.css",
+    "static/js/main.027c0417.js"
+  ]
+}
