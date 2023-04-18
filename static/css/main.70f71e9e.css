@@ -9,7 +9,7 @@
 }
 @font-face {
   font-display: swap;
-  font-family: Lexend Deca;
+  font-family: "Lexend Deca";
   font-style: normal;
   font-weight: 400;
   src: url(../media/lexend-deca-v21-latin-regular.f1399a81a47fc70aeef0.woff2) format("woff2"),
@@ -17,7 +17,7 @@
 }
 @font-face {
   font-display: swap;
-  font-family: Big Shoulders Display;
+  font-family: "Big Shoulders Display";
   font-style: normal;
   font-weight: 400;
   src: url(../media/big-shoulders-display-v19-latin-regular.b56e8183618a293b2a7e.woff2) format("woff2"),
@@ -25,7 +25,7 @@
 }
 @font-face {
   font-display: swap;
-  font-family: Big Shoulders Display;
+  font-family: "Big Shoulders Display";
   font-style: normal;
   font-weight: 700;
   src: url(../media/big-shoulders-display-v19-latin-700.5106b44b70e68c9cb44a.woff2) format("woff2"),
